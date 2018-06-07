@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\UbuntuService.deps.json
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\UbuntuService.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\UbuntuService.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\UbuntuService.dll
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.csprojAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.AssemblyInfoInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\Sharing.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\UbuntuService.pdb
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\bin\Debug\netcoreapp2.0\Sharing.pdb
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.csproj.CopyComplete
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\UbuntuService\obj\Debug\netcoreapp2.0\UbuntuService.pdb

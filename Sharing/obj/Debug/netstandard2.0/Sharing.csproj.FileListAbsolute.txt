@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\bin\Debug\netstandard2.0\Sharing.deps.json
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\bin\Debug\netstandard2.0\Sharing.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\bin\Debug\netstandard2.0\Sharing.pdb
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.csprojAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.AssemblyInfoInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.AssemblyInfo.cs
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\Sharing\obj\Debug\netstandard2.0\Sharing.pdb

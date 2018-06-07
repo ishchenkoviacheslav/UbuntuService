@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\bin\Debug\netstandard2.0\API.deps.json
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\bin\Debug\netstandard2.0\API.dll
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.csprojAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.AssemblyInfoInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.AssemblyInfo.cs
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\bin\Debug\netstandard2.0\API.pdb
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\bin\Debug\netstandard2.0\Sharing.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\bin\Debug\netstandard2.0\Sharing.pdb
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.csproj.CopyComplete
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.dll
+C:\Users\user\documents\visual studio 2017\Projects\UbuntuService\API\obj\Debug\netstandard2.0\API.pdb
