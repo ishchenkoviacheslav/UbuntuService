@@ -7,4 +7,7 @@ Schema for this solution:
 
 - Sharing.dll(serializator, DTO - same class which will be to use on both sides(Clien and MasterClient))
 
-- API.dll client's side dll(output 3 dll for client app. 1)RabbitMQ.Client(nuget) 2)Sharing.dll 3)API.dll - based on RabbitMQ.Client.dll(nuget) and Sharing.dll. It has switch and ping logic etc.
+- API.dll client's side dll(output 3 dll for client app. 
+  1)RabbitMQ.Client(nuget) 
+  2)Sharing.dll 
+  3)API.dll - based on RabbitMQ.Client.dll(nuget) and Sharing.dll. It has switch and ping logic etc.
